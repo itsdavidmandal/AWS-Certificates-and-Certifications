@@ -1,6 +1,6 @@
 # Cloud Computing Essentials - SimuLearn
 
-![alt text](<Images/1. CloudComputingEssentials.png>)
+![alt text](<1. CloudComputingEssentials.png>)
 
 ## Project Overview
 Successfully completed the **Cloud Computing Essentials** course from AWS SimuLearn at skillbuilder.aws, focusing on improving website reliability through Amazon S3 static website hosting.
